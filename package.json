@@ -11,5 +11,5 @@
     "mysql-to-mongo": "node index.js"
   },
   "author": "Ramin Taghizada",
-  "license": "ISC"
+  "license": "MIT"
 }
